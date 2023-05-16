@@ -6,7 +6,7 @@
     define('db','smartclasses');
     $conn=connect_to_db();
     function base_url(){
-        return "https://kronoidtechnologies.com";
+        return "https://kronoidtechnologies.com/";
     }
     function connect_to_db(){
         if(!defined('host')){
