@@ -1,0 +1,2 @@
+# kronoidtechnologies
+Own company website
